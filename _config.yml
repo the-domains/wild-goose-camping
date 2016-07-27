@@ -12,3 +12,7 @@ color:
     - '#5C6B73'
     - '#253237'
 name: Wild Goose Camping
+navigation:
+  - url: www.wildgoosecamping.com.au
+    name: Our Home site
+    type: external
