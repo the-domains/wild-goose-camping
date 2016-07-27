@@ -1,4 +1,3 @@
-layout_spectrum: 0.7187791576143354
 typography_spectrum: 0.43868276732973754
 color:
   brandStrength: 0.5066780776251107
@@ -11,8 +10,10 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.7187791576143354
 name: Wild Goose Camping
 navigation:
   - url: www.wildgoosecamping.com.au
     name: Our Home site
     type: external
+title: "Luxury Canvas Accommodation\_"
