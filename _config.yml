@@ -13,7 +13,7 @@ color:
 layout_spectrum: 0.7187791576143354
 name: Wild Goose Camping
 navigation:
-  - url: www.wildgoosecamping.com.au
-    name: Our Home site
+  - name: Our Home site
+    url: www.wildgoosecamping.com.au
     type: external
-title: "Luxury Canvas Accommodation\_"
+title: Wild Goose Camping
