@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-02T14:36:47.377Z'
+datePublished: '2016-08-02T14:39:01.659Z'
 sourcePath: _posts/2016-07-28-wild-goose-camping-wildgoosecamping-instagram-photos-an.md
 isBasedOnUrl: 'https://www.instagram.com/wildgoosecamping/'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-02T14:36:46.117Z'
-title: Wild Goose Camping (@wildgoosecamping) * Instagram photos and videos
+dateModified: '2016-08-02T14:39:00.704Z'
+title: ''
 app_links:
   - url: 'instagram://user?username=wildgoosecamping'
     type: ios
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: Photograph
 
 ---
-![Drop in and say hello on Instagram](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9510d04cc0d84d1c9409cfe8cb984407/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-19%2Fs150x150%2F12599019_1583712628517912_1958327212_a.jpg)
+![Drop in and say hello on Instagram](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19951187-52d5-4304-bbf5-5881097af3d9.jpg)
