@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Wild Goose Camping Events]]></title>
-        <description><![CDATA[Wild Goose Camping Events]]></description>
+        <title><![CDATA[Wild Goose Camping]]></title>
+        <description><![CDATA[Wild Goose Camping]]></description>
         <link>https://thegrid.ai/wild-goose-camping/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 13:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 13:55:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wild-goose-camping/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d14946b4-ace2-4a1f-8114-71a3f38f5483.jpg">]]></description>
+            <link>https://thegrid.ai/wild-goose-camping/287689e8-c84b-48cb-b5ce-79d2b3cde50b/index.html</link>
+            <guid isPermaLink="false">287689e8-c84b-48cb-b5ce-79d2b3cde50b</guid>
+            <pubDate>Fri, 05 Aug 2016 13:55:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wild Goose Camping (@wildgoosecamping) * Instagram photos and videos]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19951187-52d5-4304-bbf5-5881097af3d9.jpg" alt="Drop in and say hello on Instagram">]]></description>
@@ -18,13 +25,6 @@
             <link>https://www.facebook.com/wildgoosecamping/</link>
             <guid isPermaLink="false">ef69339c-b6f6-4fd8-bef0-f1d22ea8e865</guid>
             <pubDate>Wed, 27 Jul 2016 13:38:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wild Goose Camping]]></title>
-            <description><![CDATA[<article><h1>Wild Goose Camping</h1><p>Camping with ease, comfort and style. Providing spacious canvas Bell tents for hire and sale. Setting up luxury campsites for people in the Margaret River region. Available for holidays, events, extra accommodation. Glamping at it's best.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d565dc3966cb3760bc291da5940d3b66/noop.jpg?input=http%3A%2F%2Fwww.wildgoosecamping.com.au%2Fuploads%2F7%2F1%2F8%2F1%2F71812491%2F1197631_orig.jpg"></article>]]></description>
-            <link>http://www.wildgoosecamping.com.au/</link>
-            <guid isPermaLink="false">a239bd7d-f7a8-4e01-82ef-b9a7f904a25c</guid>
-            <pubDate>Wed, 27 Jul 2016 13:28:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
