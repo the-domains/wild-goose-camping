@@ -23,16 +23,14 @@ description: >-
   size bell tent. Glamping at its best!
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.wildgoosecamping.com.au/services.html'
 title: Hire Services
-datePublished: '2016-08-05T13:55:31.277Z'
-dateModified: '2016-08-05T13:39:47.452Z'
+datePublished: '2016-08-10T13:51:09.960Z'
+dateModified: '2016-08-10T13:51:08.936Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-05-hire-services.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: hire-services/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
