@@ -16,5 +16,8 @@ navigation:
   - name: 'Wild Goose Home '
     url: www.wildgoosecamping.com.au
     type: external
+  - name: Camping Services
+    id: 7f598e2b-f1c0-4999-bc29-16c1cc2585c2
+    type: content
 title: Wild Goose Camping
 description: Get under the stars with minimal effort and maximum comfort
