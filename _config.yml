@@ -10,7 +10,18 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+opengraph:
+  appId: '261579787348214'
+  type: Wild Goose Camping Page
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa53d880-9453-43f1-bed9-abf45db6430d.jpg
 layout_spectrum: 0.7187791576143354
+author:
+  name: Clint Collins
+  email: info@wildgoosecamping.com.au
+  url: www.wildgoosecamping.com.au
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/928ef035-ba1a-480c-832a-6bb003b90d66.jpg
 name: Wild Goose Camping
 navigation:
   - name: 'Wild Goose Home '
@@ -19,5 +30,5 @@ navigation:
   - name: Camping Services
     id: 7f598e2b-f1c0-4999-bc29-16c1cc2585c2
     type: content
-title: Wild Goose Camping
+title: Get out under the stars with ease and comfort
 description: Get under the stars with minimal effort and maximum comfort
