@@ -17,7 +17,7 @@ opengraph:
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa53d880-9453-43f1-bed9-abf45db6430d.jpg
 layout_spectrum: 0.7187791576143354
 author:
-  name: Clint Collins
+  name: Wild Goose Camping
   email: info@wildgoosecamping.com.au
   url: www.wildgoosecamping.com.au
 logo: >-
@@ -30,5 +30,7 @@ navigation:
   - name: Camping Services
     id: 7f598e2b-f1c0-4999-bc29-16c1cc2585c2
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/005a04a1-026f-4f57-a61e-adbeb13e021c.jpg
 title: Get out under the stars with ease and comfort
 description: Get under the stars with minimal effort and maximum comfort
